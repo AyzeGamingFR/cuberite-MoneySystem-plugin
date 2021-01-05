@@ -1,7 +1,7 @@
 local pluginName = "AyzeLYC Money System"
 local pluginAuthor = "AyzeLYC | AyzeLYC#4168"
-local pluginVersion = "1.0.0.0"
-local pluginRepository = ""
+local pluginVersion = "1.0.0.1"
+local pluginRepository = "https://github.com/AyzeGamingFR/cuberite-MoneySystem-plugin"
 
 local shop = {
      
