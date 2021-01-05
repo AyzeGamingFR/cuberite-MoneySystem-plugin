@@ -3,6 +3,22 @@ local pluginAuthor = "AyzeLYC | AyzeLYC#4168"
 local pluginVersion = "1.0.0.1"
 local pluginRepository = "https://github.com/AyzeGamingFR/cuberite-MoneySystem-plugin"
 
+local commands = {
+     
+     "/msmoney": {
+          
+          
+          
+     }
+     
+     "/msshop": {
+          
+          
+          
+     }
+     
+}
+
 local shop = {
      
      local minerals = {
